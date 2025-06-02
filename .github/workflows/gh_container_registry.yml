@@ -15,7 +15,7 @@ jobs:
           uses: pozetroninc/github-action-get-latest-release@master
           with:
             owner: seffs
-            repo: Mat-o-Wahl
+            repo: mat-o-wahl
           
         - name: 'Checkout GitHub Action'
           uses: actions/checkout@v2
