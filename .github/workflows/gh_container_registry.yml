@@ -14,7 +14,7 @@ jobs:
           id: get_latest_release
           uses: pozetroninc/github-action-get-latest-release@master
           with:
-            owner: msteudtn
+            owner: seffs
             repo: mat-o-wahl
           
         - name: 'Checkout GitHub Action'
